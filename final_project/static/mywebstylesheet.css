@@ -1,0 +1,23 @@
+body{
+    background-color: aquamarine;
+}
+
+.card{
+    color: black;
+}
+
+.card-body{
+    color: black;
+}
+
+.mb-3 {
+    color: black;
+}
+
+.form-label {
+    color: black;
+}
+
+.mb-2 {
+    padding: 25px 25px 25px 25px;
+}
