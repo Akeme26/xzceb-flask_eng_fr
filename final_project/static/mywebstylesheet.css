@@ -1,11 +1,14 @@
 body{
+    background: url('./MicrosoftTeams-image\ \(2\).png');
     background-color: aquamarine;
+    background-image: url('back1.webp');
+    color: red;
 }
 
 .card{
     color: black;
 }
-
+            
 .card-body{
     color: black;
 }
